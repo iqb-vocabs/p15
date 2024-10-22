@@ -1,0 +1,15 @@
+{
+  "id": "amap",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Metadatenprofile für Testaufgaben: Mathematik Primar 2004"
+    }
+  ],
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "maintainer": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "unit.json",
+    "item.json"
+  ]
+}
