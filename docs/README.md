@@ -20,6 +20,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p15/master/unit.jso
 | Aufgabenzeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
 | Stimuluszeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Quellenangaben | Text |Mehrzeilig, Sprache(n): de | iqb_copyright |
+| Unverträgliche Aufgaben | Text |Einzeilig, Sprache(n): de | iqb_compatibility |
 
 ## Profil "IQB Mathematik Primar 2004 - Item"
 
