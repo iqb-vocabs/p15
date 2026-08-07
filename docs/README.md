@@ -8,13 +8,13 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Primar 2004 - Aufgabe"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p15/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p15/master/unit.json)
+ID of profile: [https://w3id.org/iqb/p15/unit/](https://w3id.org/iqb/p15/unit/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
 | Entwickler:in | Text | Einzeilig, Sprache(n): de   | iqb_author |
 | Für SPF geeignet | Ja/Nein | Text für WAHR: ja, Text für FALSCH: nein | a1 |
-| Leitidee | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: 'https://w3id.org/iqb/v09/k1/', Einmalauswahl, Zeige nur erste Ebene, Dialogbox | w8 |
+| Leitidee | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: '[https://w3id.org/iqb/v09/k1/](https://w3id.org/iqb/v09/k1/)', Einmalauswahl, Zeige nur erste Ebene, Dialogbox | w8 |
 | Aufgabenzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
 | Stimuluszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Quellenangaben | Text | Mehrzeilig, Sprache(n): de   | iqb_copyright |
@@ -22,16 +22,16 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p15/master/unit.jso
 
 ## Profil "IQB Mathematik Primar 2004 - Item"
 
-ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p15/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p15/master/item.json)
+ID of profile: [https://w3id.org/iqb/p15/item/](https://w3id.org/iqb/p15/item/)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Itemformat | [Vokabular](https://w3id.org/iqb/v27/mp/) | url: 'https://w3id.org/iqb/v27/mp/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | s3 |
-| Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v09/n1/) | url: 'https://w3id.org/iqb/v09/n1/', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | s4 |
-| Inhaltsbezogener Bildungsstandard primär | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: 'https://w3id.org/iqb/v09/k1/', Einmalauswahl, Dialogbox | s7 |
-| Inhaltsbezogener Bildungsstandard sekundär | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: 'https://w3id.org/iqb/v09/k1/', Mehrfachauswahl, Dialogbox | s8 |
-| Allgemeine Kompetenzen primär | [Vokabular](https://w3id.org/iqb/v09/a1/) | url: 'https://w3id.org/iqb/v09/a1/', Einmalauswahl, Dialogbox | s5 |
-| Algemeine Kompetenzen sekundär | [Vokabular](https://w3id.org/iqb/v09/a1/) | url: 'https://w3id.org/iqb/v09/a1/', Mehrfachauswahl, Dialogbox | s6 |
+| Itemformat | [Vokabular](https://w3id.org/iqb/v27/mp/) | url: '[https://w3id.org/iqb/v27/mp/](https://w3id.org/iqb/v27/mp/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | s3 |
+| Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v09/n1/) | url: '[https://w3id.org/iqb/v09/n1/](https://w3id.org/iqb/v09/n1/)', Einmalauswahl, Dialogbox, Nummerierung unterdrückt | s4 |
+| Inhaltsbezogener Bildungsstandard primär | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: '[https://w3id.org/iqb/v09/k1/](https://w3id.org/iqb/v09/k1/)', Einmalauswahl, Dialogbox | s7 |
+| Inhaltsbezogener Bildungsstandard sekundär | [Vokabular](https://w3id.org/iqb/v09/k1/) | url: '[https://w3id.org/iqb/v09/k1/](https://w3id.org/iqb/v09/k1/)', Mehrfachauswahl, Dialogbox | s8 |
+| Allgemeine Kompetenzen primär | [Vokabular](https://w3id.org/iqb/v09/a1/) | url: '[https://w3id.org/iqb/v09/a1/](https://w3id.org/iqb/v09/a1/)', Einmalauswahl, Dialogbox | s5 |
+| Algemeine Kompetenzen sekundär | [Vokabular](https://w3id.org/iqb/v09/a1/) | url: '[https://w3id.org/iqb/v09/a1/](https://w3id.org/iqb/v09/a1/)', Mehrfachauswahl, Dialogbox | s6 |
 | Itemzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_item |
-| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl, Dialogbox | e4 |
+| Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: '[https://w3id.org/iqb/v26/ea/](https://w3id.org/iqb/v26/ea/)', Einmalauswahl, Dialogbox | e4 |
 
